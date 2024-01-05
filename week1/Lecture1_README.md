@@ -329,7 +329,7 @@ UNIX: Text files
 - `cat`: Display the contents of a file
 - `more`: Display large files. Use space bar to advance.
 - `head`: Show the begninning of a file. Try `head -5 /usr/include/limits.h`
-- `tail`: Show the end of a file. Try `tails -5 /usr/include/limits.h`
+- `tail`: Show the end of a file. Try `tail -5 /usr/include/limits.h`
 - `nano`: Edit a file.
 - `a > b` put output of command `a` in file `b`
 - `a >> b` append output of command `a` to file `b`
